@@ -1,0 +1,17 @@
+name: airSign-env
+channels:
+  - defaults
+  - pytorch
+  - nvidia
+dependencies:
+  - numpy
+  - python
+  - pytorch
+  - pytorch-cuda=12.1
+  - scipy
+  - tensorboard
+  - torchvision
+  - tqdm
+  - pandas
+  - scikit-learn
+  - pillow
